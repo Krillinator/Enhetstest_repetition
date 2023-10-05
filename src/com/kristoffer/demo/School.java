@@ -6,9 +6,9 @@ public class School {
     int rating;
     Student student;
 
-    public int welcomeStudent() {
+    public String welcomeStudent() {
 
-        return 2+2;
+        return "Hello world!";
     }
 
 }
